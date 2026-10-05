@@ -31,7 +31,7 @@ A base final contém **44.200 registros**, distribuídos em **221 semanas**, no 
 
 **Arquivo:** `top-200-spotify.csv`
 
-**Fonte original:** [Spotify Top 200 Dataset – Younver](https://github.com/younver/spotify-top-200-dataset).
+**Fonte original:** [Spotify Top 200 Dataset – Younver](https://github.com/younver/spotify-top-200-dataset), contendo dados semanais do Spotify Top 200 Global entre 2017 e 2021.
 
 ---
 
@@ -52,7 +52,7 @@ A base final contém **4.641 músicas**, **23 variáveis**, **2.229 artistas dis
 
 **Arquivo:** `spotify_songs_adjusted.csv`
 
-**Fonte original:** [TidyTuesday – Spotify Songs](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md).
+**Fonte original:** [TidyTuesday – Spotify Songs](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md), edição de 21 de janeiro de 2020. Os dados foram obtidos originalmente do Spotify por meio do pacote `spotifyr`.
 
 ---
 
