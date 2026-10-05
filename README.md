@@ -25,7 +25,7 @@ Base utilizada para analisar a evolução histórica da participação da músic
 
 Os registros da base original foram consolidados por `track_id` e `week`, garantindo uma única observação por música em cada semana. Também foram criadas as variáveis `ano` e `ano_mes`, derivadas de `week`, permitindo as análises anual e mensal.
 
-Adicionalmente, foi criada a variável `is_latin` a partir das informações disponíveis em `artist_genres`, possibilitando a identificação das músicas associadas a gêneros latinos.
+Adicionalmente, foi criada a variável `is_latin` a partir das informações disponíveis em artist_genres. Foram consideradas associadas ao universo latino as músicas em que pelo menos um dos artistas creditados apresentava um dos seguintes gêneros: latin hip hop, latin pop, electro latino, latin viral pop, trap latino, latin arena pop, canadian latin, rap latina, latin alternative, latin talent show, reggaeton, reggaeton colombiano ou puerto rican pop. Essa classificação foi realizada antes da consolidação por track_id e week, de forma que colaborações fossem classificadas como latinas quando pelo menos um dos artistas atendesse ao critério estabelecido.
 
 A base final contém **44.200 registros**, distribuídos em **221 semanas**, no período de janeiro de 2017 a abril de 2021.
 
