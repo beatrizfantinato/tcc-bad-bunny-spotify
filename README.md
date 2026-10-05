@@ -16,8 +16,7 @@ A variável `edicao_superbowl` foi adicionada durante o tratamento dos dados par
 
 **Arquivo:** `daily_top_songs.csv`
 
-**Fonte original:** Spotify Charts – Daily Top Songs Global.
-
+**Fonte original:** [Spotify Charts](https://charts.spotify.com/) – Daily Top Songs Global.
 ---
 
 ## 2. top-200-spotify
@@ -32,7 +31,7 @@ A base final contém **44.200 registros**, distribuídos em **221 semanas**, no 
 
 **Arquivo:** `top-200-spotify.csv`
 
-**Fonte original:** Spotify Top 200 Dataset, disponibilizado por Younver no GitHub.
+**Fonte original:** [Spotify Top 200 Dataset – Younver](https://github.com/younver/spotify-top-200-dataset).
 
 ---
 
@@ -53,12 +52,12 @@ A base final contém **4.641 músicas**, **23 variáveis**, **2.229 artistas dis
 
 **Arquivo:** `spotify_songs_adjusted.csv`
 
-**Fonte original:** TidyTuesday – Spotify Songs.
+**Fonte original:** [TidyTuesday – Spotify Songs](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md).
 
 ---
 
-## Finalidade
+## Sobre os dados
 
-As bases são disponibilizadas para fins acadêmicos e para permitir a consulta dos dados utilizados nas análises apresentadas no Trabalho de Conclusão de Curso.
+Este repositório disponibiliza as bases tratadas utilizadas nas análises do Trabalho de Conclusão de Curso, com a finalidade de permitir a consulta e a verificação dos resultados apresentados no estudo.
 
-As fontes originais dos dados são mantidas identificadas neste repositório, e os tratamentos realizados estão descritos na seção de Material e Métodos do trabalho.
+Os dados possuem fontes externas, devidamente identificadas em cada seção. Os tratamentos e transformações realizados pela aluna estão descritos na seção de Material e Métodos do trabalho.
